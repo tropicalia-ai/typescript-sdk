@@ -1,0 +1,9 @@
+{
+    "cliVersion": "3.47.0",
+    "generatorName": "fernapi/fern-typescript-sdk",
+    "generatorVersion": "3.43.13",
+    "generatorConfig": {
+        "namespaceExport": "tropicalia"
+    },
+    "sdkVersion": "0.1.0"
+}
